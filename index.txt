@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Coding Blog</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🌐 Welcome to My Coding Blog</h1>
+    <p>Sharing what I learn on my journey into web development!</p>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Projects</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="post">
+      <h2>💡 My First Blog Post</h2>
+      <p class="date">Posted on July 11, 2025</p>
+      <p>
+        Today I created my first HTML page and styled it using CSS. I learned about tags like
+        &lt;header&gt;, &lt;section&gt;, and &lt;footer&gt;. It feels amazing to build something on my own!
+      </p>
+    </section>
+
+    <section class="post">
+      <h2>🎨 Understanding CSS Basics</h2>
+      <p class="date">Posted on July 8, 2025</p>
+      <p>
+        CSS helps design the structure of your webpage. I used colors, margins, and padding. I also explored Flexbox to align items beautifully!
+      </p>
+    </section>
+
+    <section class="post">
+      <h2>🚀 What's Next?</h2>
+      <ul>
+        <li>✅ Learn Git & GitHub</li>
+        <li>✅ Build and deploy my first website</li>
+        <li>🧠 Understand JavaScript basics</li>
+        <li>💼 Add a projects section</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 My Coding Blog. All rights reserved.</p>
+  </footer>
+</body>
+</html>
